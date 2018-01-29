@@ -1,0 +1,2 @@
+# WAM
+RLI WebAppMap
